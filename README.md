@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbidAliShaikh
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... shiny and Distill
+- 🌱 I’m currently learning ... shiny and Quarto
 - 💞️ I’m looking to collaborate on ... analysis
 - 📫 How to reach me ...
 
